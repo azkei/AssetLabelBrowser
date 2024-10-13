@@ -1,7 +1,7 @@
 {
   "name": "com.azkei.asset-label-browser",
   "displayName": "AssetLabelBrowser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Asset Label Tool",
   "gitDependencies": {},
   "vpmDependencies": {},
