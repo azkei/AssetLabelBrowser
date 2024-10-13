@@ -1,0 +1,14 @@
+{
+  "name": "com.azkei.asset-label-browser.Editor",
+  "references": [
+    "com.azkei.asset-label-browser"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

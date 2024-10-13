@@ -1,0 +1,14 @@
+{
+  "name": "com.azkei.asset-label-browser",
+  "displayName": "AssetLabelBrowser",
+  "version": "1.0.0",
+  "description": "Asset Label Tool",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "azkei",
+    "email": "azkei@k"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {}
+}
